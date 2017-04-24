@@ -6,6 +6,23 @@ Workflow básico para scaffold inicial. Baseado no modelo proposto por [Edinilso
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+## Stack
+
+- Task Runner: [Gulp](http://www.gulpjs.com/)
+- CSS Preprocessor: [Stylus](http://www.stylus-lang.com/)
+- HTML Template Engine: [Pug](http://pugjs.com/api/getting-started.html)
+- Mixins Stylus: [Nib](http://tj.github.com/nib/)
+- CSS Optimizer: [CleanCSS](github.com/jakubpawlowicz/clean-css)
+- Concatenation: [Gulp-concat](https://github.com/contra/gulp-concat)
+- Image Optimization: [Imagemin](https://github.com/imagemin/imagemin)
+- Rename Archives: [Gulp-rename](https://github.com/hparra/gulp-rename)
+- Testing Gulp Tasks: [Plumber](https://github.com/floatdrop/gulp-plumber)
+- Minify JS: [Gulp-uglify](https://github.com/terinjokes/gulp-uglify)
+- Live Reload: [BrowserSync](https://browsersync.io/)
+- Media Queries: [Rupture](http://jescalan.github.io/rupture/)
+- System Grid: [Jeet](https://jeet.gs/)
+
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
